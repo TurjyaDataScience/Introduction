@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @TurjyaDataScience
-- 👀 I’m interested in Medical Image Analysis using Deep Learning Algorithms...
-- 🌱 I’m currently working as an External Biostatistical Consultant at AIIMS Gorakhpur, India...
-- 💞️ I’m looking to collaborate on my various projects, so if anyone is interested email me...
-- 📫 Email: turjyadatascience@gmail.com...
+## 👋 Hello, I'm [TurjyaDataScience]!
+
+### 📊 Biostatistics & Clinical Research Specialist | 📈 Machine Learning Enthusiast | 🔬 NGS Expert & Medical Image Analysis
+
+I specialize in:
+- **Biostatistics**
+- **Clinical Research**
+- **Survival Analysis**
+- **Machine Learning**
+- **Next-Generation Sequencing (NGS)**
+- ***Medical Image Analysis**
+
+### 💻 Technical Skills:
+- **Python**
+- **R**
+- **Stata**
+- **SPSS**
+
+I am passionate about leveraging data to drive insights and innovations in healthcare and life sciences. With extensive experience in statistical analysis, machine learning, and NGS, I deliver high-quality solutions tailored to meet your needs.
+
+### 🤝 Let's Collaborate!
+I'm always open to collaborating on exciting projects. If you're interested in working together, feel free to reach out!
+
+📧 **[turjyadatascience@gmail.com]**
+
+Let's make a difference together!
 
 
 <!---
